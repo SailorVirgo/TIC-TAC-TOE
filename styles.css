@@ -1,0 +1,19 @@
+
+.row {
+display: flex;
+flex-direction: row;
+
+}
+
+.game-button {
+
+
+}
+
+.button-container {
+    display:flex;
+    width: 80vw;
+    margin: 3rem;
+    flex-direction: column;
+
+}
