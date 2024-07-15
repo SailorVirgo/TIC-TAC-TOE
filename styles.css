@@ -1,3 +1,15 @@
+.game-button {
+width: 5rem;
+height: 5rem;
+}
+
+
+.button-container {
+    display:flex;
+    margin: 3rem;
+    flex-direction: column;
+
+}
 
 .row {
 display: flex;
@@ -5,15 +17,11 @@ flex-direction: row;
 
 }
 
-.game-button {
-
-
-}
-
-.button-container {
-    display:flex;
-    width: 80vw;
-    margin: 3rem;
-    flex-direction: column;
+body {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100vw;
+height: 100vh;
 
 }
